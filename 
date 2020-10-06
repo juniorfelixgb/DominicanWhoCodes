@@ -1,0 +1,284 @@
+[33m710625d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge pull request #116 from Jadhielv/dev
+[33m8374b69[m Merge branch 'master' into dev
+[33m183960a[m Updated Jadhiel Velez info
+[33m92af8e6[m Merge pull request #114 from Evalir/master
+[33me8b967a[m Modify Enrique Ortiz links and bio
+[33m2d36f65[m Merge pull request #113 from gavilanch/master
+[33m3357784[m Agregado Gavilanch
+[33mad98fa9[m Merge pull request #112 from sact1909/master
+[33m3923556[m Add SOF, Telegram to Steven Profile and enable youtube
+[33mc2d9e01[m Merge branch 'master' of https://github.com/AngelGarcia13/DominicanWhoCodes
+[33m9b4dcb9[m Upgraded to Net Core 3.1
+[33m0d42569[m Update azure-pipelines.yml for Azure Pipelines
+[33md42d079[m Merge pull request #111 from michaelmontero/profile-addition/michael-montero
+[33m6459f57[m Merge pull request #110 from errrzarrr/master
+[33m0d9fe35[m Add Michael Montero profile
+[33m170c83e[m New Feature: Including Medium social media profile
+[33m001005b[m New Feature: Including StackOverflow social media profile
+[33mb9c63c6[m Merge pull request #109 from errrzarrr/master
+[33m68491f6[m New Feature: Including Telegram social media profile
+[33mb48a320[m Merge pull request #107 from errrzarrr/master
+[33me4819a7[m Adding Roberto M. profile to the data file
+[33me760c69[m Merge pull request #106 from monterolebronhg/shuffle_developer_list
+[33me66b13a[m Add documentation to Shuffle extension methods
+[33m3122ee1[m Shuffle Developers List
+[33m7746a69[m Merge pull request #105 from dioniciodiaz/patch-2
+[33mbf7ed4b[m change github username
+[33m58de77e[m Merge pull request #104 from burdier/Add-Profile-LMB
+[33m68713a2[m Add profile Luis Miguel
+[33m2240854[m Update developers.json
+[33m5e32bc6[m Merge pull request #103 from vyzaldysanchez/profile-addition
+[33m0130da6[m Merge branch 'master' into profile-addition
+[33m8742fc1[m Merge pull request #102 from DannyFeliz/master
+[33m6665a5f[m Merge pull request #101 from Jadhielv/dev
+[33m26faf46[m profile-addition - Adds Vyzaldy Sanchez profile
+[33m8ac3718[m Add Vue client
+[33m6267118[m add info of profile
+[33meb28831[m Merge pull request #93 from savaf/patch-1
+[33m3052bbc[m Merge branch 'master' into patch-1
+[33m1fab923[m Merge pull request #94 from jesusantguerrero/add-developer
+[33m2273fe4[m Merge branch 'master' into add-developer
+[33m76ec922[m Merge pull request #98 from jgilbertcastro/addmypicfromdata
+[33m1efaa15[m Merge pull request #99 from Pujolsluis/master
+[33mfb02286[m Updated Luis Pujols info
+[33mb1cb43d[m Merge branch 'master' into addmypicfromdata
+[33m967ed42[m ADD MY PIC FROM DATA
+[33mcc69725[m Merge pull request #4 from jgilbertcastro/addmypicfromdata
+[33mc02655b[m add my pic from data
+[33m7660863[m Update developers.json
+[33me1c6ebd[m Merge pull request #2 from jgilbertcastro/develop
+[33mbd84a3e[m Merge branch 'master' into develop
+[33m420321f[m Merge pull request #1 from jgilbertcastro/addmyprofile
+[33m406832f[m add my profile
+[33m94d4b57[m add developer jesus guerrero
+[33mb2b325a[m Update developers.json
+[33m08d6369[m Change Photo
+[33m3722c0b[m Update developers.json
+[33m4b54a46[m Añadirme al json
+[33m1ecfe48[m Merge pull request #92 from djlocoja/patch-1
+[33me63b55d[m Merge branch 'master' into patch-1
+[33mfaaa620[m Merge pull request #91 from sperezm97/patch-1
+[33m7e4cacd[m add dionicio diaz json data
+[33m09e88fc[m Update developers.json
+[33mf1a16b7[m Merge pull request #90 from AngelGarcia13/develop
+[33m867f693[m Fixes #46 Fixing Azure Pipeline
+[33me6c399c[m Updated Blazor to the lastest version
+[33m781a830[m Merge pull request #88 from juanozoria/patch-1
+[33m120121e[m Update developers.json
+[33m4f369d3[m Update developers.json
+[33mc529d44[m Update developers.json
+[33m497a277[m Update developers.json
+[33mc25a872[m Merge pull request #87 from jeasoft/patch-1
+[33mdfbac25[m Adding myselft
+[33m7e06ff6[m Update developers.json
+[33mb7b27d7[m Merge pull request #85 from Freilynstr/master
+[33m9c386eb[m Merge branch 'master' into master
+[33m04ccf7b[m Merge pull request #84 from itsalb3rt/master
+[33mc3cf972[m Merge pull request #83 from evaldez89/master
+[33mb934b53[m Merge branch 'master' into master
+[33md2b4df5[m Merge pull request #82 from GianCastle/patch-1
+[33m9342060[m Merge pull request #81 from EddyCordero/master
+[33mbedbc84[m [ADD] Was added the freilyn's image to dev-pics folder.
+[33mcb317c3[m [ADD] Was added freilyn's profile to developers file.
+[33mee6bf39[m Albert Hidalgo Skills
+[33m29c2910[m Merge pull request #2 from AngelGarcia13/master
+[33mc819a4b[m Update developers.json
+[33m4ec9dfa[m Merge pull request #1 from evaldez89/evaldez-profile
+[33m2fbca5f[m add profile information
+[33m03906ff[m add profile image
+[33m04302e1[m adding Eddy Cordero profile
+[33mbeee5ee[m Merge pull request #80 from RaulMonteroC/feature/add-raul-montero
+[33mfc82f9b[m Add Raul Montero to the developers.json file
+[33mea0bae2[m Merge pull request #79 from sgermosen/master
+[33m397d6e6[m Merge branch 'master' into master
+[33m698b658[m adding my personal info to the data
+[33md02b181[m Merge pull request #76 from fgpayano/master
+[33m77c1db6[m Merge branch 'master' into master
+[33m5756eab[m Merge pull request #71 from DarkCode01/master
+[33m5faea44[m Merge branch 'master' into master
+[33m011de11[m Merge pull request #77 from Avto9711/master
+[33m1c7638c[m Merge pull request #78 from carlos0202/master
+[33m8115cdd[m New challenger appears
+[33m0d553ee[m fixing angel torres pic
+[33md6abaf3[m Merge https://github.com/AngelGarcia13/DominicanWhoCodes
+[33md511272[m fixing angel torres
+[33mf4c0005[m Merge branch 'master' of https://github.com/DarkCode01/DominicanWhoCodes
+[33mef02262[m Addded my pictire.
+[33m41dd68d[m Merge branch 'master' into master
+[33m1c13813[m Merge branch 'master' into master
+[33m2a4504d[m Add Francis Goris Payano
+[33mdb7fdea[m Merge pull request #75 from crisog/master
+[33mea13250[m Merge branch 'master' into master
+[33m6ffeac7[m Merge pull request #74 from icodeat9/patch-1
+[33m44dd371[m Merge pull request #73 from LeonelSantiago/Add-of-Leonel-Santiago-developer-data
+[33m2caa695[m added new developer
+[33me8827bd[m Merge branch 'master' into patch-1
+[33m552408a[m Merge branch 'master' into master
+[33mb833b29[m Merge pull request #72 from marcelino056/patch-1
+[33m10199df[m Merge pull request #70 from DannyFeliz/master
+[33mfdd98c9[m Merge branch 'patch-1' of github.com:icodeat9/DominicanWhoCodes into patch-1
+[33m788c4bd[m adding picture
+[33md9c9021[m add enrique to developers.json
+[33m73e125a[m Merge branch 'Add-of-Leonel-Santiago-developer-data' of https://github.com/LeonelSantiago/DominicanWhoCodes into Add-of-Leonel-Santiago-developer-data
+[33m2a2c794[m Fix of Leonel Santiago picture url
+[33m82f1f51[m Update developers.json
+[33ma22bf58[m Added Jose Segura Developer xE
+[33mbe14fbf[m Add twitter handler
+[33m5771959[m Add twitter handler
+[33m13b0a0d[m Merge pull request #67 from LeonelSantiago/Add-of-Leonel-Santiago-developer-data
+[33m7189b96[m Merge branch 'master' into Add-of-Leonel-Santiago-developer-data
+[33m8afd1ca[m Merge pull request #50 from AngelReyesEspinal/master
+[33m81701d2[m Merge pull request #68 from DannyFeliz/master
+[33m9ec5648[m Add personal site
+[33mc1b2716[m Remove extract space
+[33md2b5cd6[m Add danny feliz pic
+[33m22c59f4[m Update developers.json
+[33mb87cdc8[m Add Danny Feliz data
+[33m721c2ab[m Add of Leonel Santiago developer data. - Add of Leonel Santiago developer data into developers data json in developers.json file. - Add of Leonel Santiago picture into devs-pic folder.
+[33m95767dd[m Merge pull request #66 from mecm1993/master
+[33m86d13fa[m New dummy asset and minor fix in developers data
+[33md500df5[m Added Viviveca Info
+[33mcbe5b43[m Merge pull request #59 from Gr3gorywolf/master
+[33m0e40fe0[m Merge branch 'master' into master
+[33m841e360[m Merge pull request #58 from theorlan2/master
+[33mfad4b3e[m Merge branch 'master' into master
+[33m1c8ba4a[m Merge pull request #57 from sact1909/master
+[33md5077ba[m Merge branch 'master' into master
+[33m1ad97d0[m Fixed jpg size
+[33m638b459[m Merge pull request #56 from carlos-herasme/master
+[33m2cbeedd[m Merge branch 'master' into master
+[33m2076fd4[m Merge pull request #64 from jpozo20/add-jefry-pozo
+[33me6f09e2[m Add jefry pozo
+[33m3472b32[m Merge pull request #55 from eleazar0425/master
+[33m3ddc427[m Adding Gregory Cabral
+[33m78ae6b4[m Possible arrangements in styles
+[33m3f3d211[m Add Dany Santos
+[33m508e395[m add Steven Checo
+[33mc6c4a4b[m Add Eleazar Estrella's website on developers data
+[33m21a208e[m Revert "Revert "Adding Carlos Herasme.""
+[33m17710b2[m Revert "Adding Carlos Herasme."
+[33m959aecf[m Adding Carlos Herasme.
+[33mad32d5e[m update eleazar estrella's description
+[33m9c474bd[m Add new contributor (Eleazar Estrella)
+[33m3e1a7c2[m Update README.md
+[33md8fed1b[m Merge pull request #54 from aperez011/master
+[33ma3c9181[m Update Roadmap.md
+[33m913d9b2[m Update README.md
+[33m1f43343[m Changed angel-perez picture size
+[33m5dc14a6[m Added Roadmap for DWC
+[33m961361d[m Update README.md
+[33mc2360b7[m Update developers.json
+[33m5c05b7d[m Merge branch 'master' into master
+[33m3db8edb[m Add a new collaborator
+[33m4c09604[m Merge pull request #53 from jefridev/master
+[33m1257bd0[m Includes attribute target='_blank' on href with reference to external websites.
+[33m79f2733[m Merge pull request #52 from jefridev/master
+[33m7e11aba[m Includes new profile in developers.json and picture dev-pics.
+[33m9fce3c0[m Update developers.json
+[33mad4abbc[m Merge branch 'master' into master
+[33m38334fa[m Best developer ever added successfully
+[33mae47093[m Merge pull request #49 from YhorbyMatias/master
+[33med103e7[m Adding Yhorby Matias
+[33m0a0a1c9[m Merge pull request #47 from Capellan29/master
+[33m6be39db[m capellan
+[33m2088ebf[m Merge pull request #45 from Evalir/master
+[33me556e8d[m Merge branch 'master' into master
+[33m1fc689a[m Merge pull request #44 from Edwardenis/master
+[33me7defd1[m Add Enrique Ortiz
+[33m11d3b47[m Merge pull request #1 from AngelGarcia13/master
+[33m790cdae[m added Edwardenis to developers list
+[33m466ad8d[m Merge pull request #42 from adrian1088/master
+[33mceec11f[m Merge branch 'master' into master
+[33m4f21c2b[m Merge pull request #43 from Avto9711/master
+[33m4469115[m Merge pull request #39 from itsalb3rt/master
+[33m20cca77[m Adding skills Leandro Jimenez
+[33me7fee1c[m Merge branch 'master' into master
+[33m2414312[m Fixing Angel Torres  linkedin url
+[33m3970fa6[m Add information for my profile
+[33me052ab1[m Merge remote-tracking branch 'AngelGarcia13/master'
+[33ma2a7d57[m Merge pull request #41 from AngelGarcia13/revert-40-feature/adding-cristopher-vivieca-profile
+[33m8b89c02[m Revert "Adding Cristopher Vivieca profile"
+[33m9cf8ea7[m Merge branch 'master' into master
+[33m196cc4b[m Merge pull request #40 from cvivieca/feature/adding-cristopher-vivieca-profile
+[33ma51a75e[m Adding profile information
+[33mf4aed69[m Adding profile picture
+[33m64c4fc5[m Minor fix
+[33md5e6c5f[m Albert Hidalgo
+[33mf035670[m Merge pull request #33 from ogaston/master
+[33m2520a8d[m Merge branch 'master' into master
+[33m03364a7[m Merge pull request #38 from Avto9711/master
+[33m41d9652[m adding Angel Torres
+[33me9cacf9[m Merge pull request #36 from lewandy/feature/add-lewandy-profile
+[33mcb534f0[m Merge branch 'master' into feature/add-lewandy-profile
+[33mfa4125f[m Update developers.json
+[33md6bcdf8[m add pic and info to developers.json
+[33m97fb349[m Merge pull request #35 from JoseAngel1196/master
+[33m00d7898[m Adding Jose Hidalgo
+[33m7eeab39[m Merge pull request #34 from MikeHiciano/master
+[33md5641ef[m [ADD] adding Miguel Hiciano's pic
+[33m966e7c9[m adding miguel hiciano's profile
+[33m6639ee2[m [FIX] Pic URL
+[33m5e3a641[m Update developers.json
+[33m339444a[m Adding Omar Gaston in the dev list and the pic
+[33m53d8a31[m Merge pull request #30 from Ahcom1019/master
+[33mb07bf0c[m Merge pull request #32 from dionnyprensa/master
+[33m0c82f1c[m [FIX] solving GitHub url duplicated
+[33mbea43e7[m Merge branch 'master' into master
+[33m821bb22[m Merge pull request #29 from leandrojj13/master
+[33mb919ecd[m Resolving merge problem!
+[33md7fbadd[m Merge pull request #28 from dionnyprensa/master
+[33m12414f8[m Fixing linkedin icon and adding more information to my profile
+[33m7c80a36[m Resolving merge!
+[33mfdc0c6c[m Merge branch 'master' into master
+[33m8fd3eb3[m Delete settings.json
+[33mc1ece28[m Resolving merge problem!
+[33me022393[m Merge pull request #27 from Ahcom1019/master
+[33m3bd6d96[m Update README.md
+[33m081a52e[m Added Blazor Client links
+[33mead464b[m Adding my profile
+[33m6c357b2[m Adding Leandro Jiménez
+[33m1e920ac[m Merge pull request #23 from robertlluberes/add-page-description
+[33maaaff81[m Fix typo in page description
+[33mc5f92e0[m [ADD] Adding Github link to profile [IMP] Sorting dev list by Initials
+[33mdab63d6[m Merge branch 'master' into master
+[33m2eeb27f[m Adding my profile
+[33mad3057e[m Merge pull request #24 from claudiosanchez/feature/claudio-sanchez
+[33mf094a74[m Adding Claudio Sánchez
+[33mbe0ce5f[m Add nice Page description
+[33m48c0e04[m Merge pull request #18 from juanchinovas/master
+[33m082caba[m Merge branch 'master' into master
+[33m9f479d0[m This commit resolves #21, resolves #7. The issue #14 was fixed in prior commit in this PR adding scrollbar to the description
+[33m4e9097d[m Merge pull request #17 from JeanCCV/master
+[33m397b411[m Merge branch 'master' of https://github.com/juanchinovas/DominicanWhoCodes
+[33m9698039[m :( my bad. I left my pic in my PC
+[33m4e75951[m Fix name of LinkedIn variable
+[33m2ac3580[m Fix name of webpage parameter
+[33md625630[m Merge branch 'master' into master
+[33m12727bc[m Adding myself. -adding loanding. -setting scrollbar to skills and description. -Same height to all cards
+[33m1986766[m Added social network links from data dynamically
+[33m72ff114[m Merge pull request #12 from JeanCCV/master
+[33m3961585[m Merge pull request #13 from robertlluberes/cardcomponent-fixed-height
+[33m2271471[m Add style to make image in CardComponent with fixed height, to fix issue #5
+[33m3da52d2[m Adding Jean Calderon profile info to be popular
+[33ma4f66ef[m Update README.md
+[33md9125df[m Update README.md
+[33m32c3f4a[m Merge pull request #4 from robertlluberes/add-myself-robertlluberes
+[33m11b4e2e[m Resolove conflicts with master branch
+[33mce13a0f[m Merge pull request #3 from dionnyprensa/master
+[33mb0fac4f[m Add my picture profile
+[33mde452fb[m Add myself, Robert Lluberes as Dominican who codes
+[33m40036ee[m [IMP] fix DionnyPrensa summary
+[33mf374d9d[m Merge pull request #2 from dionnyprensa/master
+[33m0c7cd7e[m Merge branch 'master' into master
+[33mfc256d1[m [ADD] adding Dionny Prensa profile data
+[33m455d600[m Merge pull request #1 from RaymondCoplin/develop
+[33mf084ba2[m Added @raymondcoplin info.
+[33m8b05ae4[m Update README.md
+[33mc1a0ccb[m Added pic for Pujols and Manuel without permmision
+[33ma943485[m Added some styles to card componet
+[33mf1ad255[m moved col class to index component
+[33m1598fdf[m Added social icons and separated the column style
+[33m498426a[m[33m ([m[1;31morigin/gh-pages[m[33m)[m Set up CI with Azure Pipelines
+[33mf250e86[m Create README.md
+[33mf805a5a[m Initial Commit
+[33m4144d4b[m Initial commit
